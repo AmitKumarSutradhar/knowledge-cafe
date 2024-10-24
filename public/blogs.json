@@ -1,17 +1,17 @@
 [
     {
       "id": 1,
-      "cover": "https://via.placeholder.com/600x400",
+      "cover": "https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "The Future of Web Development",
       "author_img": "https://via.placeholder.com/100",
       "author": "John Doe",
-      "posted_date": "2024-10-15",
+      "posted_date": "June 5, 2024",
       "reading_time": 8,
       "hashtags": ["#webdevelopment", "#future", "#technology"]
     },
     {
       "id": 2,
-      "cover": "https://via.placeholder.com/600x400",
+      "cover": "https://images.pexels.com/photos/16129724/pexels-photo-16129724/free-photo-of-man-working-on-computers-coding.jpeg?auto=compress&cs=tinysrgb&w=600",
       "title": "10 Tips to Improve Your JavaScript Skills",
       "author_img": "https://via.placeholder.com/100",
       "author": "Jane Smith",
@@ -25,7 +25,7 @@
       "title": "Understanding CSS Grid: A Beginner's Guide",
       "author_img": "https://via.placeholder.com/100",
       "author": "Emily Johnson",
-      "posted_date": "2024-08-30",
+      "posted_date": "May 26, 2024",
       "reading_time": 6,
       "hashtags": ["#css", "#grid", "#webdesign"]
     },
@@ -35,7 +35,7 @@
       "title": "Why Laravel is the Best PHP Framework",
       "author_img": "https://via.placeholder.com/100",
       "author": "Michael Brown",
-      "posted_date": "2024-10-01",
+      "posted_date": "April 13, 2024",
       "reading_time": 7,
       "hashtags": ["#laravel", "#php", "#framework"]
     },
@@ -45,7 +45,7 @@
       "title": "The Rise of AI in Software Development",
       "author_img": "https://via.placeholder.com/100",
       "author": "Sophia Williams",
-      "posted_date": "2024-09-15",
+      "posted_date": "March 3, 2024",
       "reading_time": 9,
       "hashtags": ["#AI", "#softwaredevelopment", "#innovation"]
     }
